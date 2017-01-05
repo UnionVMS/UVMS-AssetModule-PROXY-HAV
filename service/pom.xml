@@ -5,7 +5,7 @@
     <parent>
         <artifactId>hav-vessel-proxy</artifactId>
         <groupId>se.havochvatten.vessel.proxy</groupId>
-        <version>3.0.0</version>
+        <version>3.0.1-SNAPSHOT</version>
     </parent>
 
     <groupId>se.havochvatten.vessel.proxy</groupId>

@@ -3,7 +3,7 @@
     
     <groupId>se.havochvatten.vessel.proxy</groupId>
     <artifactId>hav-vessel-proxy</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     
     
@@ -71,7 +71,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/UnionVMS/UVMS-AssetModule-PROXY-HAV.git</connection>
-      <tag>hav-vessel-proxy-3.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
