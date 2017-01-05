@@ -4,12 +4,12 @@
     <parent>
         <artifactId>hav-vessel-proxy</artifactId>
         <groupId>se.havochvatten.vessel.proxy</groupId>
-        <version>3.0.0-SNAPSHOT</version>
+        <version>3.0.0</version>
     </parent>
 
     <groupId>se.havochvatten.vessel.proxy</groupId>
     <artifactId>hav-vessel-proxy-module</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
     <packaging>ear</packaging>
 
     <name>hav-vessel-proxy-ear</name>
